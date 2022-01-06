@@ -1,0 +1,111 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+.half{
+    width: 50%;
+    margin-left: 80px;
+}
+.half img{
+    width: 70%;
+}
+.explore{
+    display: flex;
+    
+}
+h1{
+    font-size: 70px;
+    padding-left: 15px;
+}
+.span{
+    color: orange;
+}
+.border{
+    border-left: 5px solid red;
+    
+}
+p{
+    font-size: 30px;
+    text-align: justify;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(red,tomato);
+    padding: 15px 25px;
+    font-size: 25px;
+    
+}
+
+.scroll-details{
+    font-size: 20px;
+    padding: 70px 0;  
+}
+.focus{
+    margin-bottom: 150px;
+
+}
+
+.box{
+    display: flex;
+    margin: 50px 50px;
+}
+.width{
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: blue;
+    padding: 25px 20px;
+}
+.width img{
+    width: 50%;
+}
+.width h2{
+    font-size: 30px;
+}
+.width p{
+    font-size: 20px;
+}
+.mission{
+    text-align: center;
+}
+.box-border{  
+    border-radius: 30px;
+}
+.color-1{
+    background-color: rgb(237, 245, 246);
+}
+.color-2{
+    background-color: rgb(255, 238, 238);
+}
+.color-3{
+    background-color: rgb(255, 244, 214);
+}
+.document{
+    margin: 10px 40px;
+    display: flex;
+    background-image: url(image/shape-1.png);
+    background-repeat: no-repeat;
+    background-size:20%;
+    background-position: left;    
+    margin-bottom: 150px;
+}
+.develop{
+    width: 50%;
+}
+.develop img{
+    width: 70%;
+}
+.with{
+    margin-left: 180px;
+}
+.limit{
+    margin-right: 40px;
+}
+.community{
+    display: flex;
+    background-image: url(image/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 20%;
+    
+}
